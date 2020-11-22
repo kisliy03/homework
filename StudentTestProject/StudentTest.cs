@@ -41,21 +41,5 @@ namespace StudentTestProject
 
             Assert.AreEqual(expected, actual);
         }
-
-        [TestMethod]
-        public void TestMethod4()
-        {
-            List<string> students = new List<string> { "B", "C", "D", "A" };
-            List<int> marks = new List<int> { 4, 5, 6, 3 };
-            List<string> expected1 = new List<string> { "A", "B", "C", "D" };
-            List<int> expected2 = new List<int> { 3, 4, 5, 6 };
-
-            Student.SortByNameAscend(students, marks);
-
-            if (students != expected1 || marks != expected2)
-            {
-                Assert.Fail();
-            }
-        }
     }
 }
