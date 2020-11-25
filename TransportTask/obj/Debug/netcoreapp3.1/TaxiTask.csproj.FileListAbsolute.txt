@@ -1,0 +1,13 @@
+C:\Users\rshec\source\repos\TransportTask\TransportTask\bin\Debug\netcoreapp3.1\TaxiTask.exe
+C:\Users\rshec\source\repos\TransportTask\TransportTask\bin\Debug\netcoreapp3.1\TaxiTask.deps.json
+C:\Users\rshec\source\repos\TransportTask\TransportTask\bin\Debug\netcoreapp3.1\TaxiTask.runtimeconfig.json
+C:\Users\rshec\source\repos\TransportTask\TransportTask\bin\Debug\netcoreapp3.1\TaxiTask.runtimeconfig.dev.json
+C:\Users\rshec\source\repos\TransportTask\TransportTask\bin\Debug\netcoreapp3.1\TaxiTask.dll
+C:\Users\rshec\source\repos\TransportTask\TransportTask\bin\Debug\netcoreapp3.1\TaxiTask.pdb
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.csprojAssemblyReference.cache
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.AssemblyInfoInputs.cache
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.AssemblyInfo.cs
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.csproj.CoreCompileInputs.cache
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.dll
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.pdb
+C:\Users\rshec\source\repos\TransportTask\TransportTask\obj\Debug\netcoreapp3.1\TaxiTask.genruntimeconfig.cache
